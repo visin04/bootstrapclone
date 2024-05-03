@@ -1,0 +1,44 @@
+.bg-light {
+    background-color: #7952b3 !important;
+    color: white;
+}
+.nav-link a{
+    color: white !important
+    ;
+}
+.carousel-inner .carousel-item img{
+    height: 460px;
+}
+.rowing{
+    
+display: flex;
+    
+justify-content: space-around;
+}
+.box1{
+    height: 100px;
+    width: 100px;
+    background: tomato;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex: 1;
+}
+.box2{
+    height: 100px;
+    width: 100px;
+    background: green;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex: 2;
+}
+.box3{
+    height: 100px;
+    width: 100px;
+    background: purple;
+    align-items: center;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}

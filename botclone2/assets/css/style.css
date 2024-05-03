@@ -1,0 +1,32 @@
+.logonav{
+    color: white !important;
+}
+.nav-item .nav-link{
+    letter-spacing: 3px;
+
+}
+.d-block{
+height: 463px;
+}
+.card{
+    display: inline-block;
+    margin: auto;
+    margin-left: 57px;
+}
+.card{
+    transition-duration: 2s !important;
+    transition-property: all;
+}
+.nav-link:hover{color: black !important;}
+.volours{
+    border: 2px solid red;
+}
+.serviceimag{
+    height: 230px;
+}
+.col{
+    border: 2px solid black;
+}
+.services{
+    margin: auto;
+}
