@@ -1,0 +1,279 @@
+.logoimag{
+    width: 213px;
+}
+.preheaderimag{
+    padding: 0;
+}
+.preheadersub{
+    padding: 0;
+    height: 30px;
+    background: blue;
+}
+.headermodechosea{
+    border: none !important;
+}
+.postheader{
+    background: rgba(40, 58, 90, 0);
+}
+.postheaderservices .nav-item a:hover{
+    color: skyblue !important;
+}
+.mainheader{
+    background: #37517e;
+}
+.postheadermain{
+    color: white !important;
+}
+.banner{
+    background: #37517e;
+    height: 413px ;
+}
+.bannerlefth2{
+    font-size: 54px;
+
+}
+.menuicons{
+    font-size: 53px;
+    padding-bottom: 21px;
+    color: deepskyblue;
+}
+.watchbuticon{
+    padding: 2px;
+    border: 2px solid white;
+    height: 25px;
+    width: 25px;
+    padding-left: 4px 
+}
+.bannerleftbut2{
+    border: none;
+    letter-spacing: 2px;
+}
+.servicecard h3{
+    color: blue;
+}
+.bannerrightimg{
+    height: 408px;
+    
+    animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
+.preservicescols{
+    height: 85px;
+
+}
+.preimg{
+    height: 30px;
+}
+.abouth::after{
+    content: " ";
+    width: 119px;
+    height: 2px;
+    background: deepskyblue;
+    display: block;
+}
+.abouticon{
+    
+}
+.abouth3{
+    display: inline-block;
+    width: 453px;
+}
+.secondspan{
+    font-weight: 300;
+}
+.secondlefth1{
+    color: blue;
+}
+.btn-link h5{
+    color: black !important;
+    text-decoration: none !important;
+    
+}
+.btn-link:hover {
+   
+    text-decoration: none !important;
+}
+.seconfleftbutnum{
+    color: deepskyblue;
+}
+.accordion{
+    background: white !important;
+}
+.downfall{
+    border: none;
+    background: white;
+    box-shadow: 0px 0px 2px 1px;
+}
+.secondimg{
+    height: 473px;
+    margin-top: 75px;
+}
+.second{ 
+    background: rgb(200, 200, 200);
+}
+.accordion{
+    background: none !important;
+}
+.thirdimg{
+    height: 324px ;
+}
+.servicecard p{color: black;}
+.percentclas{
+    width: 509px;
+}
+.servicecard{
+    display: inline-block;
+    width: 270px;
+}
+.servicecard:hover {
+    transform: translateY(-10px);
+    color: deepskyblue;
+    box-shadow: 2px 2px 2px 1px gray;
+    transition-duration: 1s;
+
+}
+.servicecard:hover h3{
+    color: deepskyblue;
+}
+.actionbut{
+color: white !important;
+border: 1px solid white !important;
+font-size: 20px;
+}
+.actioncall{
+    background: darkblue;
+    color: white;
+    
+}
+.servicephoto{
+
+}
+.allbut{
+    background: deepskyblue;
+    font-weight: bolder;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    width: 50px;
+    border-radius: 73px;
+    padding: 1px;
+    padding-right: 1px;
+
+}
+.appbut{
+    background: deepskyblue;
+    font-weight: bolder;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    width: 50px;
+    border-radius: 73px;
+    padding: 1px;
+    padding-right: 1px;
+
+}
+.cardbut{
+    background: deepskyblue;
+    font-weight: bolder;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    width: 50px;
+    border-radius: 73px;
+    padding: 1px;
+    padding-right: 1px;
+
+}
+.webbut{
+    background: deepskyblue;
+    font-weight: bolder;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    width: 50px;
+    border-radius: 73px;
+    padding: 1px;
+    padding-right: 1px;
+
+}
+.abouts{
+    background: rgb(231 229 229);
+}
+.colomimg ,.colominghover:hover{
+    transition-duration: 1s;
+    opacity: 1;
+}
+.card .colomimg:hover{transform: scale(1.1);
+}
+.card .colominghover:hover 
+    { opacity: 1;}
+.card{
+    overflow: hidden;
+}
+.colominghover{
+    position: absolute;
+    top: 193px;
+    width: 354px;
+    text-align: center;
+    background: #00008b66;
+    opacity: 0;
+    
+}
+.colominghoverh {
+    text-transform: capitalize;
+    color: white;
+    letter-spacing: 3px;
+    font-family: math;
+    
+}
+
+.teamimag{
+    height: 100px;
+    justify-content: center;
+    display: flex;
+    width: 100px;
+    border-radius: 82px;
+}
+.imagteambox{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+}
+.teamcardh{
+color: blue;
+}
+.teamcardh{
+
+}
+.teamlinegray{
+
+
+}
+.teamcardp{
+    margin-top: 0;
+    margin-bottom: 4PX;
+    color: gray;
+}
+.contactsicons{width: 160px;}
+.contactsicons .row{display: flex;justify-content: space-between;}
+.contactsicons .row .col{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background: gray;
+    height: 38px;
+    border-radius: 52px;
+    color: deepskyblue;
+}
+.contactsicons .row .col:hover{
+    background: white;
+}
+.teamcarding{
+    
+    display: inline-block;
+    width: 530px;
+}
+.teamcarding:hover{
+    transform: translateY(-10px);
+    transition-duration: 1s;
+}
+.team {background: lightgrey;}
+.text-white{
+    color: black !important;
+}
