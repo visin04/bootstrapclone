@@ -1,0 +1,36 @@
+.nav-link{
+
+}
+.sliderwords{
+    color: black !important;
+}
+.sliderwords p{
+    font-size: 23px;
+}
+.slimage{
+    height: 443px ;
+}
+.level{
+    border: 2px black solid;
+    box-shadow: 2px 3px 4px 4px gray;
+}
+.leftcont{
+    color: white;
+}
+.leftcont h2{
+    text-transform: capitalize;
+}
+.leftcont p{
+    font-size: 28px;
+}
+.form{
+    background-image:url('../images/back.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 488px;
+}
+.card{
+    display: inline-block;
+    width: 445px;
+}
