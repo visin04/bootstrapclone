@@ -1,0 +1,96 @@
+.header_items{
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    margin-left: 36px;
+}
+.header_items:hover{
+    color: orangered !important;
+    border-bottom: 2px solid orangered;
+}
+/* dropdoawn */
+.dropbtn {
+    border: none;
+    background: white;
+  }
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+   background: white;
+    min-width: 160px;
+    z-index: 1;
+  }
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {display: block;}
+  /* slider */
+  .sliderback{
+   height: 390px;
+  }
+  .collapse {
+    flex-grow: 0;
+    
+  }
+  .navicons{
+
+  }
+  .navicons{
+    flex-direction: row !important;
+  }
+ .sliderimages1{
+  background-image: url('../slider/slider2.jpg');
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100;
+ }
+ .sliderimages2{
+  background-image: url('../slider/slider4.jpg');
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100;
+ }
+ .sliderimages3{
+  background-image: url('../slider/slider1.jpg');
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100;
+ }
+ .slider1conter{
+  justify-content: center;
+    display: flex;
+    align-items: center;
+    color: azure;
+ }
+ .slider1imagmain{
+
+ }
+ .slider1imag{
+
+ }
+ .cctvrow{
+  align-items: center;
+
+ }
+ .cctvmainimage{
+  justify-content: center;
+    display: flex;
+    align-items: center;
+ }
+ .cardimges{
+  height: 110px;
+ }
+ .cardsubh6{
+  width: 90px;
+
+ }
+ .cardsubhb{
+  width: 200px;
+ }
